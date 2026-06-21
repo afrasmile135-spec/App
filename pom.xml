@@ -12,7 +12,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>com.example</mainClass>
+            <mainClass>com.example.App</mainClass>
           </manifest>
         </archive>
       </configuration>
